@@ -1,2 +1,2 @@
-# car-fuck
-mt
+# Can I go to the Cranston, Rhode Island DMV?
+Gets info from Rhode Island DMV appointment API online. Alerts you by playing an annoying sound when an appointment is available in Cranston, which is objectively the best location.
