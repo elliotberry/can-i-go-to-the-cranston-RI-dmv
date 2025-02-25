@@ -1,12 +1,9 @@
 {
-  "name": "car-fuck",
+  "name": "can-i-go-to-the-cranston-dmv",
   "description": "",
   "author": "ɛʟʟɨօȶ b  =^._.^= ∫ <elliot@email.gd>",
   "license": "The Unlicense",
   "main": "index.js",
-  "bin": {
-    "car-fuck": "./index.js"
-  },
   "version": "0.0.1",
   "type": "module",
   "devDependencies": {
@@ -40,8 +37,5 @@
     "tabWidth": 2,
     "useTabs": false,
     "embeddedLanguageFormatting": "auto"
-  },
-  "dependencies": {
-    "@release-it/bumper": "^7.0.1"
   }
 }
